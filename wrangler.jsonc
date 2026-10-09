@@ -1,0 +1,5 @@
+{
+  "name": "cf-workers-tgproxy",
+  "main": "telegram_webproxy.js",
+  "compatibility_date": "2026-10-09"
+}
